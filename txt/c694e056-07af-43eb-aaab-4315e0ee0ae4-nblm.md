@@ -1,3 +1,15 @@
+---
+id: "c694e0"
+title: "c694e056-07af-43eb-aaab-4315e0ee0ae4-nblm"
+date: 2026-11-05
+updated: 2026-11-05
+model: "unbekannt"
+language: de
+status: entwurf
+author: ""
+classification: öffentlich
+---
+
 GitHub ist nicht nur für Programmierer: 5 überraschende Wege, wie Solopreneure und KMU die Plattform nutzen können
 
 1. Einleitung: Das alltägliche Dateichaos und das bestgehütete Geheimnis der Tech-Welt
