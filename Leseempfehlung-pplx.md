@@ -1,26 +1,4 @@
 ---
-id: "000000"                  # 6 Zeichen (0-9, a-f), im Repository eindeutig, in Anführungszeichen
-title: "Titel des Dokuments"
-date: 2026-11-05              # Erstellungsdatum, Format JJJJ-MM-TT
-updated: 2026-11-05           # Datum der letzten inhaltlichen Änderung
-model: "Claude (Anthropic)"   # möglichst mit genauer Modellbezeichnung
-language: de                  # de | fr | it | en
-status: entwurf               # entwurf | geprüft | veröffentlicht | veraltet
-author: "Name der verantwortlichen Person"
-classification: öffentlich    # öffentlich | intern | vertraulich
-
-# --- Optionale Felder: Kommentarzeichen entfernen, falls gebraucht ---
-# version: 1.0
-# tags: [git, github, kmu]
-# source: "Kurzbeschreibung des Prompts oder der Quelle"
-# reviewed_by: "Name der prüfenden Person"
-# reviewed_on: 2026-11-05
-# related: ["a1b2c3", "d4e5f6"]   # IDs verwandter Dokumente
-# license: CC-BY-4.0
----
-
-# Titel des Dokuments
----
 id: "df2ec7"                  # 6 Zeichen (0-9, a-f), im Repository eindeutig, in Anführungszeichen
 title: "Empfehlung für ein Buch und eine Online-Einführung in des Arbeiten mit Git"
 date: 2026-11-05              # Erstellungsdatum, Format JJJJ-MM-TT
