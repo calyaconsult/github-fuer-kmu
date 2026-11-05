@@ -1,9 +1,9 @@
 ---
 id: "6e7c8f"
-title: "6e7c8ff3-3e6e-44cc-a63a-b558edb6f9c7-nblm"
+title: "GitHub ist nicht nur für Programmierer"
 date: 2026-11-05
 updated: 2026-11-05
-model: "unbekannt"
+model: "notebook lm"
 language: de
 status: entwurf
 author: ""
