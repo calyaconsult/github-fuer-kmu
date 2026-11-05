@@ -92,5 +92,5 @@ Textbeiträge und strukturierte Notizen im Markdown-Format (mit standardisiertem
 
 ## 📄 Lizenz & Kontakt
 
-Erstellt von **Michael Glünz / Calya Consult** ([calyaconsult.com](https://calyaconsult.com)).
+Erstellt von **Michael Glünz / Calya Consult** ([calyaconsult.ch](https://calyaconsult.ch)).
 Fragen, Anregungen oder Feedback können gerne über [GitHub Issues](https://github.com/calyaconsult/github-fuer-kmu/issues) eingereicht werden.
